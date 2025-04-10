@@ -1,5 +1,5 @@
 ## Hi there I'm Uğur Akas 👋
-🔭 ı’m currently making on master degree at İYTE,
+🔭 I am currently doing my master's degree at İYTE
 
 🌱 I’m currently working on NB-IoT also known as LTE Cat NB1 is a Low Power Wide Area (LPWA)
 <!--
