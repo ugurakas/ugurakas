@@ -1,6 +1,6 @@
 ## Hi there I'm Uğur Akas 👋
 🔭 ı’m currently making on master degree at İYTE,
-🌱 I’m currently learning NB-IoT also known as LTE Cat NB1 is a Low Power Wide Area (LPWA)
+🌱 I’m currently working on NB-IoT also known as LTE Cat NB1 is a Low Power Wide Area (LPWA)
 <!--
 **ugurakas/ugurakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
