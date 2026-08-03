@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="./assets/GitHub_Animated_Banner.gif" width="260">
+<img align="right" src="./assets/Coding_Hacker_Drinking_Coffee.gif" width="320">
 
 - ⚙️ Embedded Systems Engineer focused on **C/C++, firmware and connected devices**
 - 🔧 Working with **STM32, ESP32 and nRF52** platforms
