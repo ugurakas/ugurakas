@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Uğur Akas
 
-<!--
-**ugurakas/ugurakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems Engineer focused on Embedded C/C++, STM32, ESP32, nRF52, RTOS, IoT and Edge AI.
 
-Here are some ideas to get you started:
+## Technologies
+- C / C++
+- STM32, ESP32, nRF52
+- FreeRTOS, Zephyr, Embedded Linux
+- MQTT, TLS, IoT
+- Edge AI, YOLO
+- Local LLMs / SLMs
+- RAG, MCP, Fine-Tuning
+- llama.cpp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Working on specialized local AI agents using RAG and fine-tuning, with a focus on combining AI, IoT and embedded systems.
+
+## GitHub Projects
+- STM32H7 Autonomy Demo
+- ESP32-C3 Low-Power IoT Project
