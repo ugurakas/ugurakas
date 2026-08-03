@@ -58,52 +58,13 @@ Currently exploring how local AI systems can be turned into specialized agents f
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ugurakas/stm32h7_autonomy_demo">
-        <img src="./assets/stm32.svg" width="72" align="left" alt="STM32H7 Autonomy Demo icon" />
-        <strong>STM32H7 Autonomy Demo</strong>
-      </a>
-      <br><br>
-      Embedded C/C++ project focused on modular STM32H7 firmware, control logic and telemetry.
-      <br><br>
-      <code>STM32H7</code> <code>C/C++</code> <code>Embedded</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ugurakas/Esp32-C3-LP-Project">
-        <img src="./assets/esp32.svg" width="72" align="left" alt="ESP32-C3 Low-Power IoT icon" />
-        <strong>ESP32-C3 Low-Power IoT</strong>
-      </a>
-      <br><br>
-      Low-power ESP32-C3 project for sensor acquisition and MQTT-based device-to-cloud communication.
-      <br><br>
-      <code>ESP32-C3</code> <code>MQTT</code> <code>Low-Power</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ugurakas/LVGL-ESP32S3">
-        <img src="./assets/lvgl.svg" width="72" align="left" alt="LVGL ESP32-S3 icon" />
-        <strong>LVGL ESP32-S3</strong>
-      </a>
-      <br><br>
-      Embedded user-interface development on ESP32-S3 using LVGL.
-      <br><br>
-      <code>ESP32-S3</code> <code>LVGL</code> <code>UI</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ugurakas/embedded-linux-char-driver">
-        <img src="./assets/linux.svg" width="72" align="left" alt="Embedded Linux character driver icon" />
-        <strong>Embedded Linux Character Driver</strong>
-      </a>
-      <br><br>
-      Low-level Linux project focused on character-device driver development and kernel-space fundamentals.
-      <br><br>
-      <code>Embedded Linux</code> <code>Driver</code> <code>Kernel</code>
-    </td>
-  </tr>
-</table>
+🚁 STM32H7 Autonomy Demo — Modular STM32H7 firmware, control logic and telemetry.
+
+🔋 ESP32-C3 Low-Power IoT — Low-power sensing and MQTT device-to-cloud communication.
+
+🖥️ LVGL ESP32-S3 — Embedded UI development on ESP32-S3 using LVGL.
+
+🐧 Embedded Linux Character Driver — Character-device driver development and kernel-space fundamentals.
 
 💡 GitHub Stats
 
