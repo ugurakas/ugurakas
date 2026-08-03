@@ -29,7 +29,7 @@
 
 </td>
 
-<td width="28%" align="center" valign="middle">
+<td width="28%" align="center" valign="right">
 
 <img src="./assets/Coding_Hacker_Drinking_Coffee.gif" width="320">
 
