@@ -12,10 +12,9 @@
   <a href="https://www.linkedin.com/in/ugur-akas/"><img src="https://img.shields.io/badge/LinkedIn-Uğur%20Akas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<h3>👨‍💻 About Me</h3>
+### 👨‍💻 About Me
 
-<tr>
-<td width="72%" valign="top">
+<img align="right" src="./assets/GitHub_Animated_Banner.gif" width="260">
 
 - ⚙️ Embedded Systems Engineer focused on **C/C++, firmware and connected devices**
 - 🔧 Working with **STM32, ESP32 and nRF52** platforms
@@ -27,15 +26,7 @@
 - 📍 Based in **İzmir, Türkiye**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ugur-akas/)
 
-</td>
-
-<td width="28%" align="center" valign="right">
-
-<img src="./assets/Coding_Hacker_Drinking_Coffee.gif" width="320">
-
-</td>
-</tr>
-
+<br clear="right">
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugur-akas/)
