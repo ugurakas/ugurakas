@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./GitHub_Animated_Banner.gif" width="750">
+  <img src="./assets/GitHub_Animated_Banner.gif" width="750">
 </p>
 <h1 align="center"> Hi everyone👋  </h1>
 
@@ -12,7 +12,11 @@
   <a href="https://www.linkedin.com/in/ugur-akas/"><img src="https://img.shields.io/badge/LinkedIn-Uğur%20Akas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 - ⚙️ Embedded Systems Engineer focused on **C/C++, firmware and connected devices**
 - 🔧 Working with **STM32, ESP32 and nRF52** platforms
@@ -23,6 +27,16 @@
 - 🧩 Currently experimenting with **specialized local AI agents** for domain-specific tasks
 - 📍 Based in **İzmir, Türkiye**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ugur-akas/)
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img src="./assets/GitHub_Animated_Banner.gif" width="320">
+
+</td>
+</tr>
+</table>
 
 ### 🔗 Connect With Me
 
