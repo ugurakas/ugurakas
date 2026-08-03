@@ -14,7 +14,6 @@
 
 <h3>👨‍💻 About Me</h3>
 
-<table>
 <tr>
 <td width="72%" valign="top">
 
@@ -36,7 +35,6 @@
 
 </td>
 </tr>
-</table>
 
 ### 🔗 Connect With Me
 
