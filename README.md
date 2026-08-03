@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./github_banner_animated.gif" width="750">
+  <img src="./GitHub_Animated_Banner.gif" width="750">
 </p>
-<h1 align="center">Hi everyone👋,  </h1>
+<h1 align="center"> Hi everyone👋  </h1>
 
 <h3 align="center">Embedded Systems Engineer | IoT & Edge AI</h3>
 
