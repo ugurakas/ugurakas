@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./githubfunny.png" width="700" alt="GitHub Banner">
 </p>
-<h1 align="center">Hi 👋, I'm Uğur Akas</h1>
+<h1 align="center">Hi everyone👋,  </h1>
 
 <h3 align="center">Embedded Systems Engineer | IoT & Edge AI</h3>
 
