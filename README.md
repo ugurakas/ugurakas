@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="72%" valign="top">
 
 - ⚙️ Embedded Systems Engineer focused on **C/C++, firmware and connected devices**
 - 🔧 Working with **STM32, ESP32 and nRF52** platforms
@@ -30,9 +30,9 @@
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-<img src="./assets/GitHub_Animated_Banner.gif" width="320">
+<img src="./assets/Coding_Hacker_Drinking_Coffee.gif" width="320">
 
 </td>
 </tr>
